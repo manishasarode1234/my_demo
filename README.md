@@ -1,2 +1,3 @@
 # my_demo
-this is my first repository
+This is my first repository.
+Auther - Manisha Sarode
